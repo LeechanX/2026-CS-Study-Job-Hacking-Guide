@@ -41,7 +41,7 @@
 ## 🔗 官方咨询与快速排单 (Official Links)
 
 <div align="center">
-  <img src="./contact_card.png" alt="Lomo CS 专家导师联系名片 - 美国/加拿大/澳洲 CS作业代写与求职辅导" width="300px" />
+  <img src="./contact_card.png" alt="Lomo CS 专家导师联系名片 - 美国/加拿大/澳洲 CS作业代写与求职辅导" width="700px" />
   <br/>
   <strong>扫描上方 QR Code 极速排单 (或添加微信号：leechanx)</strong>
 </div>
